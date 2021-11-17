@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Python and ML**
 
-- 🌱 I’m currently learning **Data Science and Analytics**
+- 🌱 I’m currently learning **Web Engineering**
 
 - 📝 I write articles on [meduim](meduim)
 
