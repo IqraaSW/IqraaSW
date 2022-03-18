@@ -1,10 +1,7 @@
 
 
 
-
-![iqra](https://user-images.githubusercontent.com/49357997/159047385-bcb2b113-5a1d-4a39-a5ad-b7f98413c6d1.jpg)
-
-
+![laptop](https://user-images.githubusercontent.com/49357997/159047709-91bab1fa-fef7-4de2-aec6-d45ca8f92600.jpg)
 
 <h1 align="center">Hi 👋, I'm Iqra Irfan</h1>
 <h3 align="center">A passionate frontend and python developer from Pakistan</h3>
