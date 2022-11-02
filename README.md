@@ -3,7 +3,7 @@
 
 ![laptop](https://user-images.githubusercontent.com/49357997/159047709-91bab1fa-fef7-4de2-aec6-d45ca8f92600.jpg)
 
-<h1 align="center">Hi 👋, I'm Iqra Irfan</h1>
+<h1 align="center">Assalam o alaikum wrwb 👋, I'm Iqra Irfan</h1>
 <h3 align="center">A passionate frontend and python from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqraasw&label=Profile%20views&color=0e75b6&style=flat" alt="iqraasw" /> </p>
@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iqrairfan123" target="blank"><img align="center" src="https://twitter.com/IqraIrfan123" alt="iqrairfan123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iqra irfan" target="blank"><img align="center" src="https://www.linkedin.com/in/iqra-irfan-92250a200/" alt="iqra irfan" height="30" width="40" /></a>
-<a href="https://instagram.com/iqraairfaan" target="blank"><img align="center" src="https://www.instagram.com/iqraairfaan" alt="iqraairfaan" height="30" width="40" /></a>
-<a href="https://medium.com/@iqrairfan" target="blank"><img align="center" src="https://medium.com/@iqrairfan" alt="@iqrairfan" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/iqra-irfan-92250a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iqra-irfan-92250a200/" height="30" width="40" /></a>
+<a href="https://medium.com/@iqrairfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iqrairfan" height="30" width="40" /></a>
+<a href="https://twitter.com/IqraIrfan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/iqrairfan123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,4 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqraasw&" alt="iqraasw" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IqraaSW&show_icons=true&theme=cobalt" alt="IqraaSW" /></p>
 
