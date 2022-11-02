@@ -4,7 +4,7 @@
 ![laptop](https://user-images.githubusercontent.com/49357997/159047709-91bab1fa-fef7-4de2-aec6-d45ca8f92600.jpg)
 
 <h1 align="center">Hi 👋, I'm Iqra Irfan</h1>
-<h3 align="center">A passionate frontend and python developer from Pakistan</h3>
+<h3 align="center">A passionate frontend and python from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqraasw&label=Profile%20views&color=0e75b6&style=flat" alt="iqraasw" /> </p>
 
@@ -12,13 +12,12 @@
 
 <p align="left"> <a href="https://twitter.com/iqrairfan123" target="blank"><img src="https://img.shields.io/twitter/follow/iqrairfan123?logo=twitter&style=for-the-badge" alt="iqrairfan123" /></a> </p>
 
-- 🔭 I’m currently working on **Python and ML**
+- 🔭 I’m currently working on **Python and Machine Learning**
 
-- 🌱 I’m currently learning **Web Engineering**
-
-- 📝 I write articles on [meduim](meduim)
+- 📝 I write articles on [meduim](https://medium.com/@iqrairfan)
 
 - 📫 How to reach me **iqrairfan2k18@gmail.com**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
