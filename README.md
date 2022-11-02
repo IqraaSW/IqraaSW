@@ -1,5 +1,5 @@
+![Beige and Black Minimalist - Desktop Wallpaper](https://user-images.githubusercontent.com/49357997/199431414-b212f749-7dad-44ec-b5ac-4557032d56d3.png)
 
-![laptop](https://user-images.githubusercontent.com/49357997/199427031-2484e979-b8b5-485b-912a-3af6bf7106cf.jpg)
 
 
 
