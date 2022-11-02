@@ -1,7 +1,8 @@
 
 
 
-![laptop](https://user-images.githubusercontent.com/49357997/199424319-14422561-69a8-4705-8f76-481d3566c68b.jpg)
+![laptop](https://user-images.githubusercontent.com/49357997/199425146-3ea34694-d37b-4f6a-a4e6-4749c2dbe920.jpg)
+
 
 
 <h1 align="center">Assalam o alaikum wrwb 👋, I'm Iqra Irfan</h1>
