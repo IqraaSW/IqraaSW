@@ -1,8 +1,7 @@
 
 
 
-![laptop](https://user-images.githubusercontent.c![github1](https://user-images.githubusercontent.com/49357997/199424085-04ae7e6c-3e01-44e4-84eb-30eee5acf9a4.jpg)
-om/)
+![laptop](https://user-images.githubusercontent.com/49357997/199424085-04ae7e6c-3e01-44e4-84eb-30eee5acf9a4.jpg)
 
 <h1 align="center">Assalam o alaikum wrwb 👋, I'm Iqra Irfan</h1>
 <h3 align="center">A passionate frontend and python from Pakistan</h3>
