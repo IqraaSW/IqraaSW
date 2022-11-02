@@ -1,5 +1,6 @@
 
-![laptop](https://user-images.githubusercontent.com/49357997/199426396-3407560f-c1e2-493e-8a6d-e2e0939d9c1a.jpg)
+![laptop](https://user-images.githubusercontent.com/49357997/199427031-2484e979-b8b5-485b-912a-3af6bf7106cf.jpg)
+
 
 
 
